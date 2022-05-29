@@ -1,4 +1,4 @@
-<img align="center" src="header.png" alt="Vladyslav Babenko">
+<p align="center"> <img src="header.png" alt="Vladyslav Babenko" /> </p> 
 
 <h3 align="center">Python developer from Ukraine</h3>
 
