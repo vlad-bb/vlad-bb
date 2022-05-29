@@ -12,3 +12,9 @@
 <a href="https://www.linkedin.com/in/vladbb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vladbb" height="30" width="40" /></a>
 <a href="https://www.facebook.com/vlad.babenko1990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vlad.babenko1990" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Learning Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> 
+<a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="django" width="90" height="30"/> </a> 
+</p>
