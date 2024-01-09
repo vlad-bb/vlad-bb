@@ -20,7 +20,7 @@
 <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1200px-Flask_logo.svg.png" alt="flask" width="90" height="30"/> </a>
 </p>
 
-
+[![Vladyslav Babenko profile views](https://u8views.com/api/v1/github/profiles/96999713/views/day-week-month-total-count.svg)](https://u8views.com/github/vlad-bb)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vlad-bb&show_icons=true&theme=dracula&locale=en&layout=compact" alt="vlad-bb" height="160" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vlad-bb&show_icons=true&theme=dracula&locale=en&hide_border=true" alt="vlad-bb" height="160"/></p>
