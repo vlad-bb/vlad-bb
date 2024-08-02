@@ -20,7 +20,7 @@
 <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1200px-Flask_logo.svg.png" alt="flask" width="90" height="30"/> </a>
 </p>
 
-
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=49555e43467f&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vlad-bb&show_icons=true&theme=dracula&locale=en&layout=compact" alt="vlad-bb" height="160" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vlad-bb&show_icons=true&theme=dracula&locale=en&hide_border=true" alt="vlad-bb" height="160"/></p>
